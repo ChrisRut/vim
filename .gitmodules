@@ -7,3 +7,6 @@
 [submodule "vendor/snipmate"]
 	path = vendor/snipmate
 	url = git://github.com/msanders/snipmate.vim.git
+[submodule "vendor/tabular"]
+	path = vendor/tabular
+	url = git://github.com/godlygeek/tabular.git
