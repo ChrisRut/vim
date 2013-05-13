@@ -10,3 +10,6 @@
 [submodule "vendor/tabular"]
 	path = vendor/tabular
 	url = git://github.com/godlygeek/tabular.git
+[submodule "vendor/vim-puppet"]
+	path = vendor/vim-puppet
+	url = https://github.com/rodjek/vim-puppet
