@@ -4,3 +4,6 @@
 [submodule "vendor/syntastic"]
 	path = vendor/syntastic
 	url = git://github.com/scrooloose/syntastic.git
+[submodule "vendor/snipmate"]
+	path = vendor/snipmate
+	url = git://github.com/msanders/snipmate.vim.git
