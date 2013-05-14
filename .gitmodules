@@ -16,3 +16,6 @@
 [submodule "vendor/vim-vividchalk"]
 	path = vendor/vim-vividchalk
 	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "vendor/vim-surround"]
+	path = vendor/vim-surround
+	url = git://github.com/tpope/vim-surround.git
