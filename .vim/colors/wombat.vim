@@ -1,0 +1,1 @@
+../../vendor/wombat/wombat.vim
