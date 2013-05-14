@@ -44,7 +44,7 @@ let g:syntastic_enable_signs=1
 let g:syntastic_quiet_warnings=1
 
 " Default color scheme
-color wombat
+color desert
 
 " Directories for swp files
 set backupdir=~/.vim/backup
