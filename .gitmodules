@@ -13,3 +13,6 @@
 [submodule "vendor/vim-puppet"]
 	path = vendor/vim-puppet
 	url = https://github.com/rodjek/vim-puppet
+[submodule "vendor/vim-vividchalk"]
+	path = vendor/vim-vividchalk
+	url = git://github.com/tpope/vim-vividchalk.git

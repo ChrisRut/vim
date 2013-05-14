@@ -1,0 +1,1 @@
+../../vendor/vim-vividchalk/colors/vividchalk.vim
