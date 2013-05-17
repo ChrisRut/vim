@@ -3,13 +3,15 @@ syntax on
 filetype plugin indent on
 
 set nocompatible
-
 set number
 set ruler
 syntax on
 
 " Set encoding
 set encoding=utf-8
+
+" Highlight on search
+set incsearch
 
 " Whitespace stuff
 set nowrap
